@@ -1,0 +1,18 @@
+{
+  "name": "imdb-scraping-using-nodejs",
+  "version": "1.0.0",
+  "description": "to scrap IMDB sites using Node JS, Cheerio and Request",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "S Shankar Narayanan",
+  "license": "ISC"
+}
