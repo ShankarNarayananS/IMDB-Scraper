@@ -1,6 +1,11 @@
 <h1> IMDB Scraper : Built using NodeJS, Cheerio and Request </h1>
 
-![](https://github.com/ShankarNarayananS/IMDB-Scraper/blob/master/Most-Popular-Movies-IMDb-1.gif)
+
+<p align="center">
+  
+<img src="https://github.com/ShankarNarayananS/IMDB-Scraper/blob/master/Most-Popular-Movies-IMDb-1.gif">
+</p>
+
 
 <h2> What kind of project is this? </h2>
 <h4> This project will scrape the top movies list from IMDB based on our custom requirements and export the contents to a text file. </h4>
