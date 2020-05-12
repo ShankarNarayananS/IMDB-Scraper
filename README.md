@@ -1,5 +1,4 @@
-<h1 style="text-align:center"> IMDB Scraper </h1>
-<h1 style="text-align:center">Built using NodeJS, Cheerio and Request </h1>
+<h1> IMDB Scraper : Built using NodeJS, Cheerio and Request </h1>
 
 
 <p align="center">
